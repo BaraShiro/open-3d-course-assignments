@@ -1,11 +1,11 @@
 # Open 3D Course Assignments
 
-Assignments for [Open 3D Course](https://www.open3dcourse.se) 2024
+Assignments for [Open 3D Course](https://www.open3dcourse.se) (ht 2024)
 
 ## Assignments
 
 
-1. 
+1. [Assignment 1](Assignment%201/Assignment%201.blend) ![Assignment 1](Assignment%201/render.png)
 2. 
 3. 
 4. 
